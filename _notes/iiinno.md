@@ -5,7 +5,8 @@ title: iiiNNO Main
 # Welcome to iiiNNO 
 ![[91979569_2516590325268375_378331862239543296_n.jpg]]
 
-<img src="91979569_2516590325268375_378331862239543296_n.jpg"/>
+<img src="/asset/banner_iiiNNO.jpg"/>
+
 
 
 ## SECTION A: Building a startup 
