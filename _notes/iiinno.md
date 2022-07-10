@@ -5,6 +5,9 @@ title: iiiNNO Main
 # Welcome to iiiNNO 
 ![[91979569_2516590325268375_378331862239543296_n.jpg]]
 
+<img src="91979569_2516590325268375_378331862239543296_n.jpg"/>
+
+
 ## SECTION A: Building a startup 
 How to build a startup that generates sales Day 1 and is attracted to early-stage investors
 
@@ -21,6 +24,8 @@ How to build a startup that generates sales Day 1 and is attracted to early-stag
 * [[Global Startup Event 2022-2023]]
 
 
+## SECTION C: Tools
+* [[Startup Tools]]
 
 
 
