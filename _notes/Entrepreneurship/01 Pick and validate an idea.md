@@ -45,9 +45,17 @@ A million-dollar idea starts with one of the following.
 ## Step 5: What is your unfair advantage? (the reason why you)
 
 * Is your idea equipped with the following traits to build an entry barrier, or make it hard for others to enter? 
-
 * A group of outstanding world-class experts who know the problem or have potential solutions can solve it.  
 * Entering into a market with at least 20% growth every year
 * Can you make sales and generate growing revenue without paid advertising? 
 * Do your initial customer come back to buy, or does your product/service have recurring revenue? 
+
+
+
+# C. Tools / Books:
+
+### C1 > Tools
+* *[[Lean Canvas]]
+* 
+
 
