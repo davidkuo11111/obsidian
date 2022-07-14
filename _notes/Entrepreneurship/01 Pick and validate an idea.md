@@ -33,10 +33,15 @@ A million-dollar idea starts with one of the following.
 ### 【B2】Step 2: Create an offer to validate (the idea that people want to pay)
 
 * The best validation comes when there are actual pre-sales or sales on a good-enough offer that people pay. 
-* The offer is not the product/service the company will eventually ship out or scale with. The request may be a semi-finished solution that may be good enough at the early launch stage to ensure the customer is willing to use and pay. (e.g., Groupon) 
+* The offer is not the product/service the company will eventually ship out or scale. The request may be a semi-finished solution that may be good enough at the early launch stage to ensure the customer is willing to use and pay. (e.g., Groupon) 
 	* Offer: Groupon started with a WordPress website to showcase the promotion of steakhouse, which did not have a platform with online payment.)
 	* Product/Service: A searchable e-commerce website offering the best town promotion with online payment and email coupon delivery. 
-
+* Offer captures the customer's current state and understands the desired state. The offer aims to validate that there is actually a gap that is worthed solving and to validate the solution is a valid one.  
+	* for example: 
+		* *Desired state*: lose 5 kg in next three months, so that I can look great for my loved one and everyone compliments on the wedding photo
+		* *Current state*: overweight and not yet good-looking to have the best looking for the wedding photo. 
+		* *Urgency*: Need to look at the best in 3 months, so that loved one will not complain for the rest of life due to potential criticism of the wedding photo. 
+		* *Offer*: a solution to help people who need to lose weight and be presentable in a short time to achieve such desired goal like looking the best on wedding photo and during wedding. 
 
 
 ### 【B3】Step 3: Understand why people buy from you (the killer reason that your idea may go big)
